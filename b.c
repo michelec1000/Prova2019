@@ -1,3 +1,4 @@
+//hello
 void foo()
 {
 }
