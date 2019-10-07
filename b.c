@@ -1,4 +1,3 @@
-//hello
 void foo()
 {
 }
