@@ -1,3 +1,4 @@
 fun(
 {
+ printf("blabla\n");
 })
